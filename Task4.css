@@ -1,0 +1,47 @@
+body {
+    margin: 10px 20px;
+    background: #4E6379;
+    font: 12pt Arial, Helvetica, sans-serif;
+}
+h3 {
+    color: #F56332;
+    text-align: center;
+    margin: 10px 0 0 0;
+    padding: 0;
+}
+p {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: #FFF;
+    cursor: pointer;
+    padding: 5px 12px;
+    background: #F56332;
+    text-align: center;
+    margin-left: 70px;
+    border-radius: 3px;
+}
+.hosting {
+    width: 755px;
+    height: 180px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0 20px 40px rgba(0,0,0,.5);
+    margin: auto;
+}
+.iconify {
+    width: 61px;
+    height: 42px;
+    margin: 10px 0 0 90px;
+}
+.host {
+    width: 250px;
+    margin: 5px 0;
+    border-right: 2px solid #D9D9D9;
+    padding-bottom: 10px;
+    float: left;
+}
+.host:last-child {
+    border-right: none;
+}

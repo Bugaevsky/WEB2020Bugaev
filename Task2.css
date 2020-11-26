@@ -1,0 +1,76 @@
+.form {
+    width: 362px;
+    height: 245px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin: 0 auto;
+    background-color: cornflowerblue;
+    outline: 3px solid royalblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.registration {
+    color: white;
+    font-size: 23px;
+}
+
+.line {
+    border: none;
+    background-color: white;
+    height: 0.5px;
+    margin-left: -20px;
+    margin-bottom: 30px;
+}
+
+.email {
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.emailField {
+    border: 1px solid rgb(171, 173, 179);
+    width: 295px;
+    height: 18px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+.password {
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+    display: inline-block;
+}
+
+.passwordField {
+    border: 1px solid rgb(171, 173, 179);
+    width: 132px;
+    height: 18px;
+    display: inline-block;
+}
+
+.passwordRepeat {
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.passwordRepeatField {
+    border: 1px solid rgb(171, 173, 179);
+    width: 132px;
+    height: 18px;
+    display: inline-block;
+    margin-bottom: 33px;
+}
+
+.buttonSend {
+    letter-spacing: -0.6px;
+    width: 81px;
+    height: 26px;
+    font-size: 13px;
+    border: none;
+    background-color: rgb(255, 223, 127);
+}
